@@ -186,17 +186,17 @@ export function ChatIntro({
           <div className="px-12 w-searchbar-xs 2xl:w-searchbar-sm 3xl:w-searchbar">
             <div className="mx-auto">
               <div className="m-auto h-[80px] w-[80px]">
-                <Image src="/logo.png" alt="Logo" width="1419" height="1520" />
+                <Image src="/eLogo.png" alt="Logo" width="1419" height="1520" />
               </div>
             </div>
 
             <div className="mt-2">
               <p className="font-bold text-xl mb-1 mt-4 text-emphasis text-center">
-                Which assistant do you want to chat with today?{" "}
+                Which courses should you be taking to graduate on time? {" "}
               </p>
               <p className="text-sm text-center">
                 Or ask a question immediately to use the{" "}
-                <b>{availablePersonas[0]?.name}</b> assistant.
+                <b>{availablePersonas[0]?.name}</b> explorer.
               </p>
               <div className="flex flex-col gap-y-4 mt-8">
                 {availablePersonas
