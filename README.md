@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EduX-Answer
 =======
 <!-- DANSWER_METADATA={"link": "https://github.com/danswer-ai/danswer/blob/main/README.md"} -->
