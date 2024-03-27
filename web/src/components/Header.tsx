@@ -62,7 +62,7 @@ export const Header: React.FC<HeaderProps> = ({ user }) => {
               <Image src="/eLogo.png" alt="Logo" width="1419" height="1520" />
             </div>
             <h1 className="flex text-2xl text-strong font-bold my-auto">
-              EduX-Answer
+                 EduX-Answer
             </h1>
           </div>
         </Link>
