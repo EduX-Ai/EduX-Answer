@@ -23,7 +23,7 @@ export function WelcomeModal({
           <p>
             EduX is the AI-powered search engine for your organization&apos;s
             internal knowledge. Whenever you need to find any piece of internal
-            information, EduXr is there to help!
+            information, EduX is there to help!
           </p>
         </div>
         <div className="flex mt-8 mb-2">
